@@ -4,7 +4,7 @@ Click a button to change the background color randomly.
 # How to Use
 Clone this repo
 Bash
-git clone git@github.com:YOUR-USERNAME/bg-color-changer.git
+git clone git@github.com:shivam6497/bg-color-changer.git
 Open index.html in your browser
 
 Click the button to change colors
